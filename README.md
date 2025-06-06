@@ -189,6 +189,8 @@ CEBRA嵌入结果的散点图
 
 ## 关于复现与创新
 
+关于`Figures-re`目录下的五个文件，成功复现论文的五个图形
+
 关于`Decoding_movie_features_optimize.ipynb`，改进了优化器部分
 
-关于`monkey_reaching_all.ipynb`，根据API文档独立编写
+关于`monkey_reaching_all.ipynb`，根据API文档独立编
